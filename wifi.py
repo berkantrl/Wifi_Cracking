@@ -1,6 +1,6 @@
 try:
     import argparse
-    import sys , os , os.path , platform
+    import sys , os , os.path 
     import time
     
     from pywifi import PyWiFi
