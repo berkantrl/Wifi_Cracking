@@ -20,7 +20,7 @@ try:
    
 except:
     print('[!] Error system')
-
+    sys.exit(1)
 
 
 def pwd(ssid,file_path):
